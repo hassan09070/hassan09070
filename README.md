@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**hassan09070/hassan09070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves building things that make a difference.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on something exciting
+- 🌱 Learning new technologies every day
+- 💬 Ask me about anything tech-related
+
+## Tech I work with
+
+`JavaScript` `Python` `React` `Node.js` `Git`
+
+## Let's connect
+
+📫 Reach out: [Your Email](mailto:your.email@example.com)  
+🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
