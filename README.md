@@ -1,101 +1,136 @@
-# Hello, I'm [Your Name] 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9598&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Continuous+Learner" alt="Typing SVG" />
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> WELCOME TO MY DIGITAL SPACE
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+a+Full+Stack+Developer;I+Build+Cool+Stuff+on+the+Internet;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=435&lines=Frontend+%7C+Backend+%7C+Everything;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Developer%20%7C%20Creator%20%7C%20Innovator&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</div>
+---
 
-## 📊 GitHub Stats
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
-</div>
-
-## 💻 Technologies & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" alt="Project 2" />
-  </a>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" alt="Activity Graph" width="100%" />
-</div>
-
-## 🎯 Currently Learning
-
-- Advanced TypeScript Patterns
-- Cloud Architecture
-- Machine Learning with TensorFlow
-
-## 👨‍💻 More About Me
+### 🚀 About Me
 
 ```javascript
-const aboutMe = {
-  pronouns: "he/him", // Update as appropriate
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  tools: ["React", "Node", "Docker", "AWS", "MongoDB", "Redux"],
-  architecture: ["microservices", "event-driven", "design patterns"],
-  currentFocus: "Building scalable applications with great user experiences",
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+const developer = {
+    name: "Your Name",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "Python", "TypeScript", "Go"],
+    askMeAbout: ["web dev", "tech", "UI/UX", "AI"],
+    technologies: {
+        frontend: ["React", "Next.js", "Vue", "Tailwind"],
+        backend: ["Node.js", "Express", "Django", "FastAPI"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        tools: ["Docker", "Git", "AWS", "Figma"]
+    },
+    currentFocus: "Building something awesome",
+    funFact: "I debug with console.log 🐛"
 };
 ```
 
-## 📫 Get in Touch
-
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
+
+## 🛠️ TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,python,django,tailwind,html,css,git,github,vscode,figma,docker&perline=8&theme=dark" />
+
 </div>
 
 ---
 
 <div align="center">
-  <strong>⭐️ From [yourusername](https://github.com/yourusername) ⭐️</strong>
+
+### 📊 GITHUB STATS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=C0C0C0&text_color=C0C0C0&border_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=C0C0C0&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=808080&sideLabels=C0C0C0&border=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C0C0C0&border_color=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 CONTRIBUTION GRAPH
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=000000&color=FFFFFF&line=C0C0C0&point=FFFFFF&area_color=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 CONNECT WITH ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFFFFF.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 DEV QUOTE OF THE DAY
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 WATCH MY CONTRIBUTIONS GET EATEN
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 PROFILE VIEWS
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=000000&style=for-the-badge" alt="profile views" />
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer"/>
+
+<div align="center">
+
+### ⚡ *"First, solve the problem. Then, write the code."* – John Johnson
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
 </div>
