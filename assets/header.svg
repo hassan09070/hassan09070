@@ -1,0 +1,75 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#10151c"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <clipPath id="typeclip">
+      <rect x="150" y="70" y2="0" width="0" height="60">
+        <animate attributeName="width" calcMode="discrete" dur="2.6s" begin="0.4s" fill="freeze"
+          values="0;38;76;114;152;190;228;266;304;342;380;418;456;494;532;570;608"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="900" height="230" rx="12" fill="url(#scan)" stroke="#1f2a1f" stroke-width="1"/>
+
+  <!-- code rain -->
+  <g font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#3fdc6e" opacity="0.13">
+    <text x="40" y="0">1<tspan x="40" dy="18">0</tspan><tspan x="40" dy="18">λ</tspan><tspan x="40" dy="18">1</tspan><tspan x="40" dy="18">Σ</tspan><tspan x="40" dy="18">0</tspan><tspan x="40" dy="18">1</tspan><tspan x="40" dy="18">π</tspan><tspan x="40" dy="18">0</tspan><tspan x="40" dy="18">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -180" to="0 260" dur="7s" repeatCount="indefinite"/></text>
+    <text x="95" y="0">0<tspan x="95" dy="18">1</tspan><tspan x="95" dy="18">1</tspan><tspan x="95" dy="18">θ</tspan><tspan x="95" dy="18">0</tspan><tspan x="95" dy="18">1</tspan><tspan x="95" dy="18">Δ</tspan><tspan x="95" dy="18">0</tspan><tspan x="95" dy="18">0</tspan><tspan x="95" dy="18">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 260" dur="9.5s" repeatCount="indefinite"/></text>
+    <text x="805" y="0">1<tspan x="805" dy="18">1</tspan><tspan x="805" dy="18">0</tspan><tspan x="805" dy="18">μ</tspan><tspan x="805" dy="18">1</tspan><tspan x="805" dy="18">0</tspan><tspan x="805" dy="18">η</tspan><tspan x="805" dy="18">1</tspan><tspan x="805" dy="18">0</tspan><tspan x="805" dy="18">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -220" to="0 260" dur="8s" repeatCount="indefinite"/></text>
+    <text x="855" y="0">0<tspan x="855" dy="18">τ</tspan><tspan x="855" dy="18">1</tspan><tspan x="855" dy="18">0</tspan><tspan x="855" dy="18">1</tspan><tspan x="855" dy="18">ω</tspan><tspan x="855" dy="18">0</tspan><tspan x="855" dy="18">1</tspan><tspan x="855" dy="18">1</tspan><tspan x="855" dy="18">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -140" to="0 260" dur="6.2s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- window chrome -->
+  <circle cx="30" cy="26" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="26" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="26" r="6" fill="#27c93f"/>
+  <text x="450" y="31" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#8b949e">hassan@habib: ~/karachi</text>
+  <line x1="14" y1="44" x2="886" y2="44" stroke="#21262d" stroke-width="1"/>
+
+  <!-- prompt -->
+  <text x="150" y="108" font-family="ui-monospace,Menlo,monospace" font-size="17" fill="#3fdc6e" filter="url(#glowSoft)">$ ./introduce --loud</text>
+
+  <!-- typed name -->
+  <g clip-path="url(#typeclip)">
+    <text x="150" y="152" font-family="ui-monospace,Menlo,monospace" font-size="40" font-weight="bold"
+          fill="#e8ff47" filter="url(#glow)" letter-spacing="1">M. HASSAN SHAHZAD</text>
+  </g>
+  <!-- cursor -->
+  <rect x="150" y="122" width="17" height="36" fill="#e8ff47">
+    <animate attributeName="x" calcMode="discrete" dur="2.6s" begin="0.4s" fill="freeze"
+      values="150;188;226;264;302;340;378;416;454;492;530;568;606;644;682;720;758"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" begin="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- underline draw -->
+  <line x1="150" y1="168" x2="760" y2="168" stroke="#e8ff47" stroke-width="2" stroke-dasharray="610" stroke-dashoffset="610" opacity="0.55">
+    <animate attributeName="stroke-dashoffset" from="610" to="0" dur="0.9s" begin="3.1s" fill="freeze"/>
+  </line>
+
+  <!-- rotating roles -->
+  <g font-family="ui-monospace,Menlo,monospace" font-size="16" fill="#9ee8ff">
+    <text x="150" y="200" opacity="0">» NLP researcher — published at SemEval &amp; CLEF 2026
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0;0" keyTimes="0;0.02;0.06;0.30;0.34;0.36;0.66;0.7;0.98;1" dur="15s" begin="3.4s" repeatCount="indefinite"/></text>
+    <text x="150" y="200" opacity="0">» builds AI that answers for him — literally, ask his portfolio
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0;0" keyTimes="0;0.34;0.35;0.38;0.42;0.62;0.66;0.7;0.98;1" dur="15s" begin="3.4s" repeatCount="indefinite"/></text>
+    <text x="150" y="200" opacity="0">» automates everything that moves — and some things that don't
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0" keyTimes="0;0.34;0.38;0.62;0.66;0.68;0.72;0.94;0.99;1" dur="15s" begin="3.4s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
