@@ -1,4 +1,4 @@
-name: generate contribution snake
+name: regenerate profile graphics
 on:
   schedule:
     - cron: "0 3 * * *"   # rebuilds itself nightly
@@ -11,6 +11,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      # stat panels first: if the API is down this fails the job and
+      # yesterday's graphics keep serving — never deploy broken cards
+      - name: generate stat panels
+        run: python3 scripts/gen_stats.py dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hassan09070

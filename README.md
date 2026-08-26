@@ -141,8 +141,8 @@ flatter me. 69 down. 181 to go. Deadline: 2026-12-31.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan09070&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8ff47&icon_color=e8ff47&text_color=c9d1d9" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan09070&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8ff47&text_color=c9d1d9" alt="Top languages" />
+<img width="49%" src="https://raw.githubusercontent.com/hassan09070/hassan09070/output/stats.svg" alt="GitHub stats" />
+<img width="49%" src="https://raw.githubusercontent.com/hassan09070/hassan09070/output/langs.svg" alt="Top languages" />
 
 <br/><br/>
 
@@ -151,7 +151,7 @@ flatter me. 69 down. 181 to go. Deadline: 2026-12-31.
   <img src="https://raw.githubusercontent.com/hassan09070/hassan09070/output/snake-light.svg" width="100%" alt="contribution snake" />
 </picture>
 
-<sub>the snake rebuilds itself every night at 03:00 UTC — of course it does, I automate everything</sub>
+<sub>panels and snake are hand-rolled SVG, regenerated nightly at 03:00 UTC by a workflow in this repo — no third-party stat service left to 503</sub>
 
 </div>
 
