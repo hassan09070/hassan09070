@@ -35,6 +35,7 @@ hassan09070/
 │   └── clef-labs-2026 ···· FinMMEval — structure-aware RAG + MoE · 🌍 10th on the global leaderboard
 ├── 🛠 products/
 │   ├── portfolio ········· a portfolio you argue with instead of scroll (beta)
+│   ├── sequence-ai ······· board game AI — minimax thinking 23k states ahead of you
 │   ├── khaata360 ········· WhatsApp bookkeeper — "spent 500 on food" → ledger entry
 │   └── takhleeq ·········· 6-DOF robot arm math, twice (Python + TS), agreeing to 4 decimals
 ├── 🧗 grind/
@@ -124,12 +125,12 @@ test keeps both honest to 4 decimal places.
 </td>
 <td width="50%" valign="top">
 
-### 🧗 [NeetCode 250](https://github.com/hassan09070/neetcode250)
-**Public accountability as a feature.** Every solution committed with its
-runtime percentile; a script regenerates the progress bar so the README can't
-flatter me. 69 down. 181 to go. Deadline: 2026-12-31.
+### 🎮 [Sequence AI](https://github.com/hassan09070/sequence-ai)
+**A board game that fights back.** The Sequence board game with opponents that
+think ahead — Minimax with Alpha-Beta pruning, 23,000+ game states per move at
+expert. Pure-Python engine with zero dependencies, full stack layered on top.
 
-`Python` `C++` `SQL` `self-updating README`
+`Python` `Minimax` `FastAPI` `Next.js`
 
 </td>
 </tr>
