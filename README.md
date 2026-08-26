@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hassan Shahzad 👋
 
-### Computer Science Student | Automation Enthusiast | Full-Stack Developer
+### CS Undergrad @ Habib University · NLP Researcher · AI / Automation Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+tools+that+make+work+smarter;Automating+the+mundane%2C+creating+the+exceptional;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -21,8 +21,9 @@ const hassan = {
     location: "Karachi, Pakistan",
     education: "Computer Science @ Habib University",
     currentRole: "Developer @ Office Automation Services",
-    interests: ["Automation", "AI Chatbots", "Full-Stack Development"],
-    currentlyLearning: "Advanced system design and scalable architectures",
+    interests: ["NLP Research", "LLM Applications", "Automation", "Full-Stack"],
+    publications: ["SemEval-2026 Task 3", "CLEF 2026 FinMMEval"],
+    currentlyLearning: "Multilingual NLP and retrieval-augmented generation",
     funFact: "I automate everything, even my coffee brewing schedule ☕"
 };
 ```
@@ -35,6 +36,11 @@ const hassan = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -59,22 +65,66 @@ const hassan = {
 
 ---
 
+## 🔬 Research & Publications
+
+Two peer-reviewed papers as an undergraduate, both from shared-task participation:
+
+**[Habib University at SemEval-2026 Task 3: A Pipeline Approach for Dimensional Aspect-Based Sentiment Analysis](https://aclanthology.org/2026.semeval-1.428/)**
+*Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026), pp. 3449–3459*
+A four-stage multilingual pipeline for continuous valence–arousal sentiment regression across 6 languages and 4 domains. **2nd place for Tatar, 6th for Russian.** → [code](https://github.com/hassan09070/semeval2026)
+
+**HU_LLM_Fin @ FinMMEval 2026 Task 2: A Structure-Aware Hybrid RAG Pipeline utilizing Mixture-of-Experts**
+*CLEF 2026 Working Notes, Jena, Germany*
+Row-Aware Chunking and partitioned two-stage retrieval over financial tables and multilingual news. **10th globally.** → [code](https://github.com/hassan09070/clef-labs-2026)
+
+---
+
+## 🌱 Open Source Contributions
+
+Contributions to [**Sugar Labs**](https://github.com/sugarlabs) — the educational software
+foundation behind Sugar and Music Blocks, used in classrooms worldwide. My work focused on
+LLM context management for their AI reflection feature.
+
+**Merged**
+
+| PR | Project | Contribution |
+|---|---|---|
+| [#5991](https://github.com/sugarlabs/musicblocks/pull/5991) | Music Blocks | Sliding window with conversation summarization |
+| [#6120](https://github.com/sugarlabs/musicblocks/pull/6120) | Music Blocks | Reflection widget UX — centering and refresh feedback |
+| [#5](https://github.com/sugarlabs/musicblocks_reflection_fastapi/pull/5) | Reflection API | Sliding window with conversation summarization |
+| [#4](https://github.com/sugarlabs/musicblocks_reflection_fastapi/pull/4) | Reflection API | Document `thinking_budget` configuration |
+| [#3](https://github.com/sugarlabs/musicblocks_reflection_fastapi/pull/3) | Reflection API | Optimize Gemini API usage via `thinking_budget` |
+
+**Submitted, not merged**
+
+| PR | Project | Contribution |
+|---|---|---|
+| [#37279](https://github.com/zulip/zulip/pull/37279) | [Zulip](https://github.com/zulip/zulip) | Emoji indicators for GitHub webhook notifications |
+| [#19633](https://github.com/google-gemini/gemini-cli/pull/19633) | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Track deleted and corrupted sessions |
+
+---
+
 ## 💼 Featured Projects
 
-### 🤖 [AI Chatbot Assistant](https://github.com/yourusername/project-name)
-An intelligent chatbot built with Python and NLP that handles customer queries with natural conversation flow.
-- **Tech:** Python, OpenAI API, FastAPI
-- **Features:** Natural language processing, context-aware responses, automated workflow integration
+### 🗣️ [Ask Hassan — AI-Chat Portfolio](https://github.com/hassan09070/portfolio)
+A portfolio site that *is* a chat app — talk to an AI grounded strictly in my résumé, instead of scrolling a static page.
+- **Tech:** Next.js, TypeScript, Tailwind, OpenRouter (streaming)
+- **Notable:** never breaks — falls back to a local keyword engine with zero backend; runs with no database at all
 
-### ⚙️ [Workflow Automation Suite](https://github.com/yourusername/project-name)
-A comprehensive automation toolkit that reduces manual tasks by 70% in office environments.
-- **Tech:** Python, JavaScript, Node.js, MongoDB
-- **Features:** Task scheduling, data processing, email automation, report generation
+### 🔬 [SemEval-2026 Task 3 — DimABSA](https://github.com/hassan09070/semeval2026)
+Four-stage transformer pipeline for dimensional aspect-based sentiment analysis in 6 languages.
+- **Tech:** mDeBERTa-v3, XLM-RoBERTa, PyTorch, HuggingFace
+- **Notable:** 2nd place for Tatar; published at SemEval-2026
 
-### 🌐 [Full-Stack Portfolio Manager](https://github.com/yourusername/project-name)
-A modern web application for managing and showcasing professional portfolios with real-time updates.
-- **Tech:** React, Next.js, Express, MongoDB
-- **Features:** Dynamic content management, responsive design, SEO optimization
+### 🤖 [Takhleeq — 6-DOF Robotic Arm Tools](https://github.com/hassan09070/takhleeq)
+Joint torque and power sizing for a robotic arm, matched against a 52-motor servo catalogue. Built for an industry collaboration with Dawlance.
+- **Tech:** Python/Tkinter desktop app + Next.js web app
+- **Notable:** two implementations verified against each other to 4 decimal places
+
+### 💸 [Khaata360 — WhatsApp Finance Assistant](https://github.com/hassan09070/khaata360-open-source)
+Log and query income and expenses by messaging a WhatsApp bot; receipts parsed from photos.
+- **Tech:** FastAPI, Next.js, MongoDB, Twilio, OpenRouter vision models
+- **Notable:** built to a full SE process — SRS, SDS, and Jira sprint tracking
 
 ---
 
@@ -82,10 +132,10 @@ A modern web application for managing and showcasing professional portfolios wit
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan09070&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://streak-stats.demolab.com?user=hassan09070&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan09070&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
 
 </div>
 
@@ -109,7 +159,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 💡 "The best way to predict the future is to automate it."
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hassan09070&color=58A6FF&style=flat-square)
 
 **Thanks for stopping by! Let's build something amazing together** 🚀
 
